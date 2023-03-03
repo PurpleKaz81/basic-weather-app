@@ -1,10 +1,10 @@
 {
-  "name": "javascript-101",
+  "name": "basic-weather-app",
   "version": "1.0.0",
-  "description": "Starting code for First JavaScript ES6 lecture",
+  "description": "A basic weather app using the OpenWeatherMap API",
   "main": "index.js",
-  "repository": "https://github.com/lewagon/webpack-boilerplate",
-  "author": "ssaunier",
+  "repository": "https://github.com/PurpleKaz81/basic-weather-app",
+  "author": "Rafael Kasinski",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.1.6",
